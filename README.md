@@ -17,3 +17,6 @@ Use your terminal and command-line arguments to run the programs:
 - **Assembler:**
   ```sh
   assemble <source file>
+
+
+Use _Logisim Evolution_ to run the _.circ_ file that is the implementation of the machine.
