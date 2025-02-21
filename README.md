@@ -1,6 +1,5 @@
 # 16Bit-Hack-Computer
 C implementation of the Hack computer and softwares from the "The Elements Of Computing Systems"\
-\
 ## Testing
 
 You can test the provided executables of each program in the `test programs` folder.
