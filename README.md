@@ -20,3 +20,5 @@ Use your terminal and command-line arguments to run the programs:
 
 
 Use _Logisim Evolution_ to run the _.circ_ file that is the implementation of the machine.
+
+The compiler and the assembler work properly but the VM-Translator might have some bugs that I haven't yet noticed, but it was tested for small programs and worked well.
